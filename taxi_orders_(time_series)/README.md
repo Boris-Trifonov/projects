@@ -13,7 +13,7 @@
 - Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 
 # Используемые библиотеки:
-pandas, seaborn, Matplotlib, numpy, lightgbm, sklearn.
+pandas, seaborn, Matplotlib, numpy, sklearn.
 
 # Основные выводы:
 - Подготовили данные:

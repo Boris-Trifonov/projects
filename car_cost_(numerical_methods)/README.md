@@ -20,7 +20,7 @@
 - Значение метрики RMSE должно быть меньше 2500.
 
 # Используемые библиотеки:
-pandas, seaborn, Matplotlib, numpy, lightgbm, sklearn.
+pandas, seaborn, Matplotlib, numpy, sklearn.
 
 # Основные выводы:
 - Подготовили данные:
